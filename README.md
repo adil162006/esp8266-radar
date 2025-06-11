@@ -1,4 +1,4 @@
-ESP8266 Radar System 🚀
+#ESP8266 Radar System 🚀
 This project uses an ESP8266 microcontroller to create a simple radar system that:
 
 Measures distance using an ultrasonic sensor (HC-SR04).
